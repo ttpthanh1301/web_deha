@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttpthanh1301/web_deha.git"
+  },
+  "author": "ttpthanh_tmu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttpthanh1301/web_deha/issues"
+  },
+  "homepage": "https://github.com/ttpthanh1301/web_deha#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
